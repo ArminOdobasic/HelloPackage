@@ -1,5 +1,5 @@
 {
-  "name": "hello-package",
+  "name": "hello-package-armino",
   "version": "1.0.0",
   "description": "Say hello",
   "main": "index.js",
